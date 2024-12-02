@@ -1,0 +1,19 @@
+.textarea_div{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Courier, monospace;
+}
+
+textarea{
+    resize: none;
+    width: auto;
+}
+.textarea_div button{
+    justify-content: center;
+    color: rgb(249,246,237);
+    background-color: rgb(109, 77, 55);
+
+}
+input{
+    background-color: rgb(249,246,237);
+
+}

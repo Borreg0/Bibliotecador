@@ -1,0 +1,66 @@
+.nombre_usuario{
+    margin-right: 25px;
+    margin-left: 10px;
+}
+
+.card{
+    width: 80%;
+    text-align: center;
+    background-color: rgba(87, 62, 47, 0.8);
+    border-radius: 30px;
+    text-decoration: none;
+    padding-bottom: 20px;
+    bottom:0;
+}
+.card-header{
+    background-color: rgba(87, 59, 42, 0);
+    text-decoration: none;
+    border: none;
+    
+    
+}
+.card-body{
+    height: 100%;
+    border: none;
+    justify-content: center;
+    padding-top: 1px;
+}
+.container-libros{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    height: 100%;
+    width: 95%;
+    display: flex;
+    flex-wrap:wrap;
+    
+}
+.tabla{
+    width:100%;
+    table-layout: fixed;
+    overflow-wrap: break-word;
+    flex-wrap:wrap;
+
+}
+ 
+.libro{
+    height: 600px;
+    width: 100%;
+    border-radius: 15px;
+    background-color: rgba(200, 163, 108, 0.773);
+    margin: 1em;
+    display: flex;
+    flex-direction: row;
+}
+body{
+    background-color: rgb(249,246,237); color: rgb(197,208,210); 
+    background-image: url('../IMAGENES/library-book-bookshelf-read-4227076479.jpg'); 
+    background-repeat: repeat; 
+    background-size: cover;
+    min-height: 900px;
+}
+.mr-1{
+    margin-right: 3px;
+}
+
+
+
